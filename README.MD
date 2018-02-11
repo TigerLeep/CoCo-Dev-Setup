@@ -5,7 +5,7 @@ This is a basic setup to allow TRS-80 Color Computer development on a PC using V
 - Clone this repository
 - Open the `CoCo-Dev-Setup.sln` file in Visual Studio 2017 and build the project once to create the TEST.DSK disk image file.
 - Mount the generated TEST.DSK in DriveWire.
-- On the CoCo, mount the DriveWire disk image and make it the current drive.  If you have the CoCoSDC, use `DRIVE 2, #0` (replace `0` with the DriveWire drive # you mounted TEST.DSK on),
+- On the CoCo, mount the DriveWire disk image and make it the current drive.  If you have the CoCoSDC, use `DRIVE 2,#0:DRIVE 2` (replace `0` with the DriveWire drive # you mounted TEST.DSK on),
 - On the CoCo do a `DIR` to ensure you see the files `TEST.BIN` and `TEST.BAS` listed.
 - On the CoCo do a `RUN "TEST"` and confirm you see `USR(5)= 7` output.
 
