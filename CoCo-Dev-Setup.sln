@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D85B3D3C-E0FB-4C70-A052-4FEA8F8619B5}") = "Playground", "./Playground/Playground.vcxproj", "{D026980E-B088-4A89-ACBA-55E2360E51C2}"
+Project("{D85B3D3C-E0FB-4C70-A052-4FEA8F8619B5}") = "CoCo-Dev-Setup", "./CoCo-Dev-Setup/CoCo-Dev-Setup.vcxproj", "{D026980E-B088-4A89-ACBA-55E2360E51C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

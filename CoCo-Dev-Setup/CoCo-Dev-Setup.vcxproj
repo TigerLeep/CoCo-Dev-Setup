@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D026980E-B088-4A89-ACBA-55E2360E51C2}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
-    <ProjectName>Playground</ProjectName>
+    <ProjectName>CoCo-Dev-Setup</ProjectName>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
